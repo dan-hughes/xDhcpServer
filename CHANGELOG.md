@@ -7,11 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
-- DhcpServerDsc
+- `DhcpServerDsc`
   - BREAKING CHANGE
-    - Renamed _xDhcpServer to _DhcpServerDsc - Fixes [#89](https://github.com/dsccommunity/xDhcpServer/issues/89).
-
-- Update repository files to latest versions
+    - Renamed _xDhcpServer_ to _DhcpServerDsc_ - Fixes [#89](https://github.com/dsccommunity/xDhcpServer/issues/89).
+  - Update repository files to latest versions
 
 ### Removed
 
